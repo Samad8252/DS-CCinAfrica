@@ -46,9 +46,7 @@ pandas, numpy, matplotlib, seaborn, tqdm, glob, os, sys
 ________________
 Execution Order
                1. Open Notebook1_Setup_Cleaning and run cells top-to-bottom after correcting file paths.
-
                2. Proceed to Notebook2_FeatureEngineering once cleaned data is generated.
-
                3. Finish in Notebook3_Modeling_Forecasting to build and evaluate forecasting models.
 ________________
 Expected Outputs
