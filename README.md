@@ -1,6 +1,6 @@
 Data Science Final Project
 Climate & Temperature Analysis (1850–2020)
-Author: Abdulsamad Sulyman (AKS2288)
+Author: Abdulsamad Sulyman 
 ________________
 
 
